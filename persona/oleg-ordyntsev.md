@@ -1,4 +1,4 @@
-# Марат Ордынцев — лицо терминала «Мамай»
+# Олег Ордынцев — лицо терминала «Мамай»
 
 > Персонаж-ведущий для YouTube / Telegram / Instagram. Сделки в роликах — реальные сделки через терминал «Мамай»; персонаж — цифровое альтер-эго автора терминала.
 
@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| **Имя** | Марат Ордынцев |
+| **Имя** | Олег Ордынцев |
 | **Возраст** | 41 год (1985 г. р.) |
 | **Откуда** | Родился в Казани, с 2021 года живёт в Сочи |
 | **Где живёт** | Свой двухэтажный дом ~180 м² на склоне в Хосте, терраса с видом на море — там же рабочее место |
@@ -51,7 +51,7 @@
 
 1. **Четыре рынка, один терминал** — утром срочка MOEX, вечером US-сессия, на выходных крипта.
 2. **Прозрачность** — каждую неделю «разбор ошибок» с реальными минусами. Никаких скринов «+500% за день».
-3. **ИИ — второй пилот, а не грааль** — рубрика «ИИ против Марата»: ИИ-сигнал терминала vs его решение, кто прав.
+3. **ИИ — второй пилот, а не грааль** — рубрика «ИИ против Олега»: ИИ-сигнал терминала vs его решение, кто прав.
 4. **Сделано трейдерами для трейдеров** — он один из создателей, поэтому знает, *почему* каждая функция устроена именно так.
 
 **Коронные фразы:**
@@ -67,19 +67,19 @@
 | 10:00–13:00 | Срочный рынок и акции MOEX | Стрим / ролик «Сделка дня на MOEX» |
 | 13:00–16:00 | Море, спорт, дочь — «трейдинг не должен съедать жизнь» | Lifestyle-рилс |
 | 16:30–20:00 | Открытие US-рынка | Ролик «Американская сессия через Мамай» |
-| Выходные | Крипта + недельный разбор | «Ошибки недели», «ИИ против Марата» |
+| Выходные | Крипта + недельный разбор | «Ошибки недели», «ИИ против Олега» |
 
 ## 6. Каналы и рубрики
 
-- **YouTube «Марат Ордынцев | Трейдинг из Сочи»** — длинные ролики 15–30 мин: живая торговля, обучение функциям «Мамая», разборы.
+- **YouTube «Олег Ордынцев | Трейдинг из Сочи»** — длинные ролики 15–30 мин: живая торговля, обучение функциям «Мамая», разборы.
 - **Telegram «Ставка Ордынцева»** — сделки дня, короткие мысли, анонсы, ссылка на терминал.
 - **Instagram / Shorts** — 30–60 сек: «одна фишка Мамая», «утро в Сочи», «самая глупая сделка недели».
 
-Рубрики: «Сделка дня», «ИИ против Марата», «Ошибки недели», «Одна фишка Мамая», «Вопрос подписчика», «Сочи между сделками».
+Рубрики: «Сделка дня», «ИИ против Олега», «Ошибки недели», «Одна фишка Мамая», «Вопрос подписчика», «Сочи между сделками».
 
 ## 7. Правила, чтобы канал не заблокировали и не было претензий
 
-- **Пометка ИИ-контента.** YouTube требует отмечать реалистичный синтетический контент (галочка «изменённый или синтетический контент» при загрузке), Instagram — метка «AI info». В описании канала: *«Марат — цифровой ведущий команды „Мамай“. Сделки в роликах — реальные, через терминал „Мамай“»*. Без пометки — риск страйков и потеря доверия, если подписчики это раскроют.
+- **Пометка ИИ-контента.** YouTube требует отмечать реалистичный синтетический контент (галочка «изменённый или синтетический контент» при загрузке), Instagram — метка «AI info». В описании канала: *«Олег — цифровой ведущий команды „Мамай“. Сделки в роликах — реальные, через терминал „Мамай“»*. Без пометки — риск страйков и потеря доверия, если подписчики это раскроют.
 - **Только реальные сделки** через «Мамай», с датой и временем на экране. Не рисовать доходность.
 - **Без обещаний дохода.** Закон «О рекламе» (ст. 28) запрещает гарантировать доходность финансовых услуг. Дисклеймер в каждом ролике: *«Не является индивидуальной инвестиционной рекомендацией. Торговля связана с риском потери средств»*.
 - **Маркировка рекламы** (erid / ОРД) для рекламных интеграций в РФ.
@@ -93,7 +93,7 @@
 ### 8.1 Soul Cinema — лицо-якорь
 
 ```
-Cinematic close-up portrait photograph of a real 41-year-old EUROPEAN man of Volga Tatar heritage with LIGHT OLIVE sun-tanned skin — clearly reads EARLY FORTIES, NOT young, NOT fifty — head and shoulders framing, face filling the frame at maximum identity detail. Short dark brown hair with clearly visible SILVER-GREY TEMPLES and a short neatly trimmed SALT-AND-PEPPER BEARD. Photorealistic cinematic character photography, shot on a cinema camera, 85mm, hyperrealistic, ultra detailed skin texture, 8k, photorealistic with completely matte unretouched natural skin showing authentic visible pores, fine peach fuzz, natural skin imperfections, real human texture, no plastic skin, no doll-like overdone features, no airbrushing, no skin smoothing, no porcelain finish, no CGI rendering. No celebrity likeness, no real-person likeness, no movie character references — character is an original generic calm professional trader archetype with his own original face.
+Cinematic close-up portrait photograph of a real 41-year-old EUROPEAN man with LIGHT OLIVE sun-tanned skin — clearly reads EARLY FORTIES, NOT young, NOT fifty — head and shoulders framing, face filling the frame at maximum identity detail. Short dark brown hair with clearly visible SILVER-GREY TEMPLES and a short neatly trimmed SALT-AND-PEPPER BEARD. Photorealistic cinematic character photography, shot on a cinema camera, 85mm, hyperrealistic, ultra detailed skin texture, 8k, photorealistic with completely matte unretouched natural skin showing authentic visible pores, fine peach fuzz, natural skin imperfections, real human texture, no plastic skin, no doll-like overdone features, no airbrushing, no skin smoothing, no porcelain finish, no CGI rendering. No celebrity likeness, no real-person likeness, no movie character references — character is an original generic calm professional trader archetype with his own original face.
 
 Character — maximum facial detail: LEAN ANGULAR face — NOT round, NOT chubby, NO double chin, NO neck fullness, sharp defined jawline with visible bone structure, slightly high cheekbones, calm attentive almond-shaped dark brown eyes, straight nose with a subtle bump on the bridge, firm thin lips. Hair cut short on the sides, neatly combed back on top, silver-grey at both temples. Beard about 5 mm, evenly trimmed, grey strands concentrated on the chin. (signature anchor — a thin pale vertical scar cutting through the outer third of his LEFT eyebrow, leaving a small hairless gap; second anchor — a small dark brown mole on his RIGHT cheekbone just below the outer corner of the eye; third anchor — fine sun-squint lines fanning from the outer corners of both eyes.) Soft natural masculine grooming with no visible makeup, matte-natural skin finish.
 
@@ -105,7 +105,7 @@ Lighting: soft directional daylight from one side like a large window, gentle na
 ### 8.2 Soul 2.0 — 3-панельная карточка (фирменный образ)
 
 ```
-Three-panel character reference sheet, 16:9 aspect ratio, of ONE 41-year-old EUROPEAN man of Volga Tatar heritage with LIGHT OLIVE sun-tanned skin, clearly reads EARLY FORTIES, short dark brown hair with SILVER-GREY TEMPLES and a short SALT-AND-PEPPER BEARD, FULLY CLOTHED in the same outfit in all three panels — he wears ONE SINGLE OUTFIT across the entire sheet. Neutral mid-grey seamless studio backdrop with a soft mottled painterly texture and a gentle natural vignette toward the frame edges, the floor fading into the same grey. The subject stands well in front of the backdrop with a soft natural shadow falling behind him — real photographic depth and separation from the wall. Editorial fashion photography, shot on Hasselblad, 85mm f1.4, shallow depth of field, hyperrealistic, ultra detailed skin texture, 8k, completely matte unretouched natural skin with visible pores, natural imperfections, no plastic skin, no airbrushing, no CGI rendering. No real brand logos, no commercial branding, no copyrighted graphics or text. No celebrity likeness, no real-person likeness — original generic calm trader archetype with his own original face. Face identical in all three panels.
+Three-panel character reference sheet, 16:9 aspect ratio, of ONE 41-year-old EUROPEAN man with LIGHT OLIVE sun-tanned skin, clearly reads EARLY FORTIES, short dark brown hair with SILVER-GREY TEMPLES and a short SALT-AND-PEPPER BEARD, FULLY CLOTHED in the same outfit in all three panels — he wears ONE SINGLE OUTFIT across the entire sheet. Neutral mid-grey seamless studio backdrop with a soft mottled painterly texture and a gentle natural vignette toward the frame edges, the floor fading into the same grey. The subject stands well in front of the backdrop with a soft natural shadow falling behind him — real photographic depth and separation from the wall. Editorial fashion photography, shot on Hasselblad, 85mm f1.4, shallow depth of field, hyperrealistic, ultra detailed skin texture, 8k, completely matte unretouched natural skin with visible pores, natural imperfections, no plastic skin, no airbrushing, no CGI rendering. No real brand logos, no commercial branding, no copyrighted graphics or text. No celebrity likeness, no real-person likeness — original generic calm trader archetype with his own original face. Face identical in all three panels.
 
 Panel 1 (left third) — Full body shot: relaxed lookbook pose, weight on one leg, left hand in trouser pocket, calm confident look at camera.
 Panel 2 (center third) — Side profile MEDIUM bust portrait: strict 90° left-facing profile, head to mid-chest, beard line, grey temple and rolled sleeve visible, wearing the SAME navy linen shirt as in the full body shot.
