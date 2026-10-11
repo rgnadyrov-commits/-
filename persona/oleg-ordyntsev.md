@@ -13,7 +13,7 @@
 | **Имя** | Олег Ордынцев |
 | **Возраст** | 41 год (1985 г. р.) |
 | **Откуда** | Родился в Казани, с 2021 года живёт в Сочи |
-| **Дом** | Свой двухэтажный дом ~180 м² на зелёном склоне в Хосте. Крытая терраса с видом на море и горы — там же рабочее место |
+| **Дом** | Свой двухэтажный дом ~180 м² на зелёном склоне в Хосте. Рабочий кабинет на втором этаже; крытая терраса с видом на море — для утреннего чая и отдыха |
 | **Семья** | Жена Алина (в кадре не появляется), дочь 12 лет |
 | **Достаток** | Хороший, но не показной: Prado 2019 года, дом без ипотеки |
 | **Роль в MAMAY** | Один из создателей терминала. Торгует через него каждый день |
@@ -53,7 +53,14 @@
 
 - Тёмно-синяя льняная рубашка, чуть мятая, навыпуск, рукава закатаны; бежевые чиносы; светло-коричневые кожаные лоферы.
 - Стальные часы с чёрным циферблатом (левая рука), обручальное кольцо, серебряный перстень с бегущим конём.
-- Рабочее место: крытая терраса, деревянный стол, ноутбук + два монитора с MAMAY, блокнот с уровнями. За спиной — море, субтропики, горы.
+- **Рабочее место — кабинет на втором этаже** (на террасе торговать невозможно: солнце бликует на мониторах, жара и влажность). Образец — архетип домашнего кабинета трейдера-стримера; конкретные чужие кабинеты не копируем.
+  - Г-образный стол из тёмного дерева, удобное кресло.
+  - Три монитора на кронштейнах: широкий по центру (график + стакан MAMAY) и два по бокам (скринеры, Telegram, журнал), под ними — ноутбук.
+  - Механическая клавиатура, мышь на большом коврике, микрофон на пантографе, веб-камера.
+  - За спиной в кадре: стеллаж с книгами по трейдингу и программированию, тёмно-зелёные акустические панели, тёплая светодиодная подсветка, лимонное дерево в кадке.
+  - Окно сбоку с рулонной шторой: днём приспущена, в просвете — зелёные холмы и полоска моря. Кондиционер.
+  - На столе: подстаканник с чаем на подставке, блокнот с уровнями, ручка.
+- **Терраса остаётся** для утреннего чая, разговоров «за жизнь» и роликов «Сочи между сделками».
 
 ## 4a. Фирменный атрибут — чай с лимоном в подстаканнике
 
@@ -88,7 +95,7 @@
 
 | Время | Что делает в MAMAY |
 |---|---|
-| 08:30 | Чай на террасе, «Та самая монета» и крипто-скринер — что было ночью |
+| 08:30 | Чай на террасе, затем в кабинет: «Та самая монета» и крипто-скринер — что было ночью |
 | 09:50–13:00 | MOEX Премаркет → Диапазоны → Флаги. Идеи — в блокнот, сделки — у брокера |
 | 13:00–16:00 | Море, спорт, дочь. Telegram-уведомления MAMAY — на телефоне |
 | 14:00–16:30 | US Premarket и «План на открытие»: гэпперы, уровни |
@@ -116,7 +123,7 @@
 
 | Время | Картинка | Что говорит Олег |
 |---|---|---|
-| 0:00–0:20 | Олег на террасе, стакан чая, смотрит в камеру | «Привет. Меня зовут Олег. Сразу скажу: я не блогер, так что если буду тупить — простите». |
+| 0:00–0:20 | Олег в кабинете за рабочим столом, стакан чая, смотрит в камеру | «Привет. Меня зовут Олег. Сразу скажу: я не блогер, так что если буду тупить — простите». |
 | 0:20–1:20 | Фото и короткие клипы: Казань, банк, первые графики (стилизация под архив) | Казань, прикладная математика, банк, торговые роботы. Слив 2008 года. «Сначала стоп, потом мечты». |
 | 1:20–2:00 | Терраса, море, Хоста | Переезд в Сочи. «Торговать можно откуда угодно — я выбрал, откуда хочу смотреть на море». |
 | 2:00–3:20 | Олег поворачивается к мониторам → запись экрана MAMAY | «Последние три года мы делали одну штуку». Семь окон, спред вместо прибыли. «Вот она. MAMAY». Быстрый пролёт: терминал, скринеры, волны, арбитраж. |
@@ -232,16 +239,14 @@
 Image 1 is the approved character reference sheet. Keep this exact man exactly as shown: same face and bone structure, same light grey-blue slightly tired eyes with crow's feet, same tousled dark brown hair with grey and slightly receding temples, same full untrimmed beard with the grey-white patch on the chin, same crooked half-smile with the RIGHT corner higher, same natural unretouched skin with a light tan. Same outfit as in Image 1: slightly wrinkled dark navy linen shirt, untucked, top buttons open, sleeves rolled to mid-forearm, sand-beige chinos, tan leather penny loafers, steel watch with a black dial on the LEFT wrist, thin wedding band and a silver signet ring. Do not beautify, slim or rejuvenate him. Do not reproduce the grey backdrop or the panel layout of Image 1.
 ```
 
-### 10.1 Главный кадр: терраса в Хосте
+### 10.1 Главный кадр: рабочий кабинет
 
 ```
 Image 1 is the approved character reference sheet. Keep this exact man exactly as shown: same face and bone structure, same light grey-blue slightly tired eyes with crow's feet, same tousled dark brown hair with grey and slightly receding temples, same full untrimmed beard with the grey-white patch on the chin, same crooked half-smile with the RIGHT corner higher, same natural unretouched skin with a light tan. Same outfit as in Image 1: slightly wrinkled dark navy linen shirt, untucked, top buttons open, sleeves rolled to mid-forearm, sand-beige chinos, steel watch with a black dial on the LEFT wrist, thin wedding band and a silver signet ring. Do not beautify, slim or rejuvenate him. Do not reproduce the grey backdrop or the panel layout of Image 1.
 
-Photorealistic candid photo, as if shot on a good smartphone, late morning. He sits at a simple solid wooden table on the covered terrace of his modest two-storey house on a green hillside in Khosta, Sochi. Behind him: the Black Sea in soft haze, lush subtropical greenery, palms and cypresses, the green slopes of the Caucasus mountains, a few red-tile roofs of neighbouring houses below. On the table: a laptop and two external monitors showing a dark-theme trading terminal — candlestick charts, volume clusters and an order book, a small "МАМАЙ" logo in the top-left corner of the interface, all other screen text small and generic. Next to the keyboard: the same glass of black tea with a lemon slice in the same ornate engraved silver-nickel tea glass holder (podstakannik) as in Image 1, an open notebook with handwritten price levels, a phone, a pen, a couple of cables. A potted lemon tree at the edge of the terrace.
+Photorealistic candid photo, as if shot on a good smartphone, late morning. He sits in an ergonomic chair at a dark wood L-shaped desk in the home office on the second floor of his modest house in Sochi, half-turned from the monitors toward the camera, pointing at a chart with a pen, calm and focused, with his crooked ironic half-smile. On the desk: three monitors on arms — a wide central monitor showing a dark-theme trading terminal with candlestick charts, a volume profile and a deep order book with cluster bubbles, a small "МАМАЙ" logo in the top-left corner of the interface; two side monitors with screener tables; all other screen text small and generic. A laptop below, a mechanical keyboard, a large desk mat, a microphone on a boom arm, the same glass of black tea with a lemon slice in the ornate engraved silver-nickel podstakannik as in Image 1 on a coaster, an open notebook with handwritten price levels. Behind him: a bookshelf with trading and programming books, dark green acoustic panels, warm LED strip light, a potted lemon tree. To the side: a window with a half-lowered roller blind, green hills and a thin strip of the sea visible outside, an air conditioner on the wall.
 
-He half-turns from the monitors toward the camera, pointing at a chart with the pen, calm and focused, with his crooked ironic half-smile.
-
-Natural daylight, light shade from the terrace roof, real lived-in atmosphere. Comfortable but not luxurious — no supercar, no gold, no pool, no designer furniture. Realistic skin with pores, no plastic skin, no CGI look.
+Soft daylight from the window mixed with warm practical light, real lived-in atmosphere, slightly messy desk. Comfortable but not luxurious — no gold, no designer furniture, no brand logos on equipment. Realistic skin with pores, no plastic skin, no CGI look.
 ```
 
 ### 10.2 Кадр для говорящей головы (под анимацию / липсинк)
@@ -249,15 +254,15 @@ Natural daylight, light shade from the terrace roof, real lived-in atmosphere. C
 ```
 Image 1 is the approved character reference sheet. Keep this exact man exactly as shown: same face, same light grey-blue eyes with crow's feet, same tousled greying hair, same untrimmed beard with the grey chin patch, same crooked half-smile with the RIGHT corner higher, natural skin with a light tan, same slightly wrinkled dark navy linen shirt with the top buttons open and sleeves rolled up. Do not beautify or rejuvenate. Do not reproduce the grey backdrop or the panel layout.
 
-Frontal chest-up shot for a talking-head video, 16:9. He sits at the wooden table on the covered terrace of his house in Sochi, facing the camera directly as if recording himself on a phone on a tripod: eyes straight into the lens, mouth closed, relaxed neutral expression with a faint hint of the crooked half-smile, shoulders relaxed. Face in the center-upper third of the frame. On the table in the lower corner of the frame: the glass of tea with lemon in the engraved silver-nickel podstakannik. Background softly out of focus: on the left the edge of a monitor with a dark trading chart, behind him the hazy Black Sea and green hills. Soft natural daylight with light shade from the terrace roof. Realistic matte skin with pores, no plastic skin, no CGI look, no text overlays.
+Frontal chest-up shot for a talking-head video, 16:9. He sits at his desk in his home office, facing the camera directly as if recording himself with a webcam: eyes straight into the lens, mouth closed, relaxed neutral expression with a faint hint of the crooked half-smile, shoulders relaxed. Face in the center-upper third of the frame. In the lower corner of the frame: the glass of tea with lemon in the engraved silver-nickel podstakannik. Background softly out of focus: a bookshelf with books, dark green acoustic panels, warm LED strip light, the glowing edge of a monitor with a dark trading chart on one side. Soft window light from the side mixed with warm practical light. Realistic matte skin with pores, no plastic skin, no CGI look, no text overlays.
 ```
 
-### 10.3 Вариации (меняйте только описание сцены в 10.1)
+### 10.3 Вариации (меняйте только описание сцены в 10.1; терраса и пляж — для бытовых роликов)
 
 - **Вечер, US-сессия:** `Evening after sunset, warm desk lamp light and the blue glow of the monitors, dark blue sky over the sea with city lights along the coast. Steam rising from a fresh glass of tea with lemon in the podstakannik.`
 - **Утро трейдера:** `Early morning, low soft golden sunlight, he sits in a wicker chair holding the glass of tea with lemon in the podstakannik with both hands, looking at the sea, laptop closed on the table.`
 - **Ритуал перед входом:** `Close-up from the side: his hand with the steel watch lifts the glass of tea in the engraved podstakannik while his other hand rests on the mouse, the monitor with a candlestick chart and a highlighted stop-loss line in soft focus behind.`
 - **Сочи между сделками:** `He stands on the pebble beach in Khosta in the same navy linen shirt and beige chinos rolled up to the ankles, barefoot, loafers in one hand, the sea behind him, late afternoon light.`
-- **Обложка / аватарка:** `Square tight portrait, head and shoulders, he looks into the camera with the crooked half-smile and raises the glass of tea with lemon in the engraved podstakannik slightly toward the camera like a quiet toast. Blurred terrace and sea behind. Plenty of clean space above his head for a title.`
+- **Обложка / аватарка:** `Square tight portrait, head and shoulders, he looks into the camera with the crooked half-smile and raises the glass of tea with lemon in the engraved podstakannik slightly toward the camera like a quiet toast. Blurred home office with bookshelves and glowing monitors behind. Plenty of clean space above his head for a title.`
 
 > **Риски Nano Banana Pro.** Модель может перенести серый фон и разбивку на панели из карточки — в промпте это прямо запрещено; если протекает, вырежьте и подайте только правую панель (анфас) + левую (полный рост) двумя картинками. Подстаканник иногда превращается в обычную кружку — допишите `a clear faceted glass inside an ornate engraved metal tea glass holder with a curved handle`. Глаза могут «уехать» в карие — повторите `light grey-blue eyes`. Надпись «МАМАЙ» на мониторе проверяйте по буквам.
